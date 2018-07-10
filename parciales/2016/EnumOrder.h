@@ -1,0 +1,4 @@
+enum EnumOrder{
+	Nombre,
+	Autor
+}

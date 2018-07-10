@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1528246108 source:c:\tareas\template\src\main.cpp.cpp
+	"main.cpp.h"
+
+1528246095 c:\tareas\template\include\main.cpp.h
+
+1528254738 source:c:\tareas\template\src\objetoa.cpp
+	"ObjetoA.h"
+
+1528254755 c:\tareas\template\include\objetoa.h
+	<string>
+
+1528259611 source:c:\tareas\template\src\coleccion.cpp
+	"Coleccion.h"
+
+1528259598 c:\tareas\template\include\coleccion.h
+	<map>
+	"ObjetoB.h"
+	"ObjetoA.h"
+
+1528255156 source:c:\tareas\template\src\objetob.cpp
+	"ObjetoB.h"
+
+1528255153 c:\tareas\template\include\objetob.h
+	<string>
+
+1528259590 source:c:\tareas\template\src\main.cpp
+	<map>
+	"ObjetoA.h"
+	"ObjetoB.h"
+	"ColeccionH.h"
+	<iostream>
+
+1528254442 c:\tareas\template\include\coleccionh.h
+	<../src/Coleccion.cpp>
+
+1528259611 c:\tareas\template\src\coleccion.cpp
+	"Coleccion.h"
+
