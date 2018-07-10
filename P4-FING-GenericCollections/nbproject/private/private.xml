@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/interfaces/ICollectible.h</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/interfaces/ICollection.cpp</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/collections/ListIterator.cpp</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/String.h</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/collections/OrderedDictionaryEntry.h</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/interfaces/ICollection.h</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/interfaces/IIterator.h</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/interfaces/IDictionary.h</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/collections/ListNode.h</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/interfaces/IKey.h</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/collections/List.h</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/collections/OrderedDictionary.h</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/interfaces/IKey.cpp</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/interfaces/IIterator.cpp</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/Integer.h</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/collections/ListIterator.h</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/collections/List.cpp</file>
+            <file>file:/C:/tareas/Netbeans/colecciones-genéricas/lab6-colecciones/interfaces/OrderedKey.h</file>
+        </group>
+    </open-files>
+</project-private>

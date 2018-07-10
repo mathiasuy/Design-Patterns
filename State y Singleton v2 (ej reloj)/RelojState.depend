@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1530919837 source:c:\cygwin64\home\user6\relojstate\src\context.cpp
+	"Context.h"
+	<iostream>
+
+1530284324 c:\cygwin64\home\user6\relojstate\include\context.h
+	"State.h"
+	"Hour.h"
+	"Timer.h"
+	"Alarm.h"
+
+1530465700 c:\cygwin64\home\user6\relojstate\include\state.h
+	"DtTime.h"
+	<string>
+
+1530943967 source:c:\cygwin64\home\user6\relojstate\src\hour.cpp
+	"../include/Hour.h"
+
+1530465700 c:\cygwin64\home\user6\relojstate\include\hour.h
+	"State.h"
+
+1530943938 source:c:\cygwin64\home\user6\relojstate\src\alarm.cpp
+	"Alarm.h"
+
+1530463094 c:\cygwin64\home\user6\relojstate\include\alarm.h
+	"State.h"
+
+1530943898 source:c:\cygwin64\home\user6\relojstate\src\timer.cpp
+	"../include/Timer.h"
+
+1530465700 c:\cygwin64\home\user6\relojstate\include\timer.h
+	"State.h"
+
+1530943669 source:c:\cygwin64\home\user6\relojstate\src\state.cpp
+	"State.h"
+	<iostream>
+	<exception>
+
+1530285702 source:c:\cygwin64\home\user6\relojstate\main.cpp
+	"include/Context.h"
+	<iostream>
+	<string>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdexcept>
+	<stddef.h>
+	<conio.h>
+
+1530465700 c:\cygwin64\home\user6\relojstate\include\dttime.h
+	<string>
+
+1530920116 source:c:\cygwin64\home\user6\relojstate\src\dttime.cpp
+	"../include/DtTime.h"
+	"Utils.h"
+
+1530283524 source:c:\cygwin64\home\user6\relojstate\src\utils.cpp
+	"../include/Utils.h"
+	<string>
+
+1530463109 c:\cygwin64\home\user6\relojstate\include\utils.h
+	<string>
+	<sstream>
+	<iomanip>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+
+1530949472 source:c:\cygwin64\home\user6\relojstate-v2\main.cpp
+	"include/Context.h"
+	<iostream>
+	<string>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdexcept>
+	<stddef.h>
+	<conio.h>
+
+1530949451 c:\cygwin64\home\user6\relojstate-v2\include\context.h
+	"State.h"
+	"DtTime.h"
+	<string>
+
+1530949352 c:\cygwin64\home\user6\relojstate-v2\include\state.h
+	"DtTime.h"
+	<string>
+
+1530465700 c:\cygwin64\home\user6\relojstate-v2\include\dttime.h
+	<string>
+
+1530949381 c:\cygwin64\home\user6\relojstate-v2\include\hour.h
+	"State.h"
+	"Alarm.h"
+
+1530949381 c:\cygwin64\home\user6\relojstate-v2\include\timer.h
+	"State.h"
+	"Hour.h"
+
+1530949705 c:\cygwin64\home\user6\relojstate-v2\include\alarm.h
+	"State.h"
+	"Timer.h"
+
+1530920116 source:c:\cygwin64\home\user6\relojstate-v2\src\dttime.cpp
+	"../include/DtTime.h"
+	"Utils.h"
+
+1530463109 c:\cygwin64\home\user6\relojstate-v2\include\utils.h
+	<string>
+	<sstream>
+	<iomanip>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+
+1530949419 source:c:\cygwin64\home\user6\relojstate-v2\src\hour.cpp
+	"../include/Hour.h"
+
+1530944096 source:c:\cygwin64\home\user6\relojstate-v2\src\state.cpp
+	"State.h"
+	<iostream>
+	<exception>
+
+1530949416 source:c:\cygwin64\home\user6\relojstate-v2\src\timer.cpp
+	"../include/Timer.h"
+
+1530283524 source:c:\cygwin64\home\user6\relojstate-v2\src\utils.cpp
+	"../include/Utils.h"
+	<string>
+
+1530949397 source:c:\cygwin64\home\user6\relojstate-v2\src\alarm.cpp
+	"Alarm.h"
+
+1530949155 source:c:\cygwin64\home\user6\relojstate-v2\src\context.cpp
+	"Context.h"
+	"Hour.h"
+	<iostream>
+

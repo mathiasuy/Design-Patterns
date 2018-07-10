@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1530141845 source:c:\cygwin64\home\user6\observer\src\vista1.cpp
+	"Vista1.h"
+
+1530140609 c:\cygwin64\home\user6\observer\include\vista1.h
+	"IObserver.h"
+	<string>
+	"Subject.h"
+
+1530139958 c:\cygwin64\home\user6\observer\include\iobserver.h
+	<string>
+
+1530141855 source:c:\cygwin64\home\user6\observer\src\vista2.cpp
+	"Vista2.h"
+
+1530140606 c:\cygwin64\home\user6\observer\include\vista2.h
+	"IObserver.h"
+	<string>
+	"Subject.h"
+
+1530141796 source:c:\cygwin64\home\user6\observer\src\subject.cpp
+	"Subject.h"
+
+1530141343 c:\cygwin64\home\user6\observer\include\subject.h
+	"ISubject.h"
+
+1530139948 c:\cygwin64\home\user6\observer\include\isubject.h
+	"IObserver.h"
+	<list>
+
+1530141772 source:c:\cygwin64\home\user6\observer\main.cpp
+	"Vista1.h"
+	"Vista2.h"
+	"Subject.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdexcept>
+	<stddef.h>
+	<conio.h>
+

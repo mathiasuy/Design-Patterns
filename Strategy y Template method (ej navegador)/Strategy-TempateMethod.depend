@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1530312760 source:c:\cygwin64\home\user6\tempatemethod\src\navegador.cpp
+	"Navegador.h"
+
+1530313482 c:\cygwin64\home\user6\tempatemethod\include\navegador.h
+	<iostream>
+	<string>
+
+1530313270 source:c:\cygwin64\home\user6\tempatemethod\src\navegadorliviano.cpp
+	"NavegadorLiviano.h"
+
+1530313207 c:\cygwin64\home\user6\tempatemethod\include\navegadorliviano.h
+	"Navegador.h"
+
+1530313279 source:c:\cygwin64\home\user6\tempatemethod\src\navegadorpesado.cpp
+	"NavegadorPesado.h"
+
+1530313212 c:\cygwin64\home\user6\tempatemethod\include\navegadorpesado.h
+	"Navegador.h"
+
+1530313683 source:c:\cygwin64\home\user6\tempatemethod\main.cpp
+	"Navegador.h"
+	"NavegadorLiviano.h"
+	"NavegadorPesado.h"
+
+1530313683 source:c:\cygwin64\home\user6\strategy-templatemethod\main.cpp
+	"Navegador.h"
+	"NavegadorLiviano.h"
+	"NavegadorPesado.h"
+
+1530321392 c:\cygwin64\home\user6\strategy-templatemethod\include\navegador.h
+	<iostream>
+	<string>
+	"TipoEstado.h"
+	"Strategy.h"
+	"Bueno.h"
+	"Intermedio.h"
+	"Malo.h"
+
+1530313207 c:\cygwin64\home\user6\strategy-templatemethod\include\navegadorliviano.h
+	"Navegador.h"
+
+1530313212 c:\cygwin64\home\user6\strategy-templatemethod\include\navegadorpesado.h
+	"Navegador.h"
+
+1530321387 source:c:\cygwin64\home\user6\strategy-templatemethod\src\navegador.cpp
+	"Navegador.h"
+
+1530321405 c:\cygwin64\home\user6\strategy-templatemethod\include\tipoestado.h
+
+1530320409 c:\cygwin64\home\user6\strategy-templatemethod\include\strategy.h
+	<string>
+
+1530313832 source:c:\cygwin64\home\user6\strategy-templatemethod\src\navegadorliviano.cpp
+	"NavegadorLiviano.h"
+
+1530313828 source:c:\cygwin64\home\user6\strategy-templatemethod\src\navegadorpesado.cpp
+	"NavegadorPesado.h"
+
+1530319330 c:\cygwin64\home\user6\strategy-templatemethod\include\bueno.h
+	"Strategy.h"
+
+1530319359 c:\cygwin64\home\user6\strategy-templatemethod\include\malo.h
+	"Strategy.h"
+
+1530319500 source:c:\cygwin64\home\user6\strategy-templatemethod\src\bueno.cpp
+	"Bueno.h"
+
+1530319532 source:c:\cygwin64\home\user6\strategy-templatemethod\src\intermedio.cpp
+	"Intermedio.h"
+
+1530319353 c:\cygwin64\home\user6\strategy-templatemethod\include\intermedio.h
+	"Strategy.h"
+
+1530319507 source:c:\cygwin64\home\user6\strategy-templatemethod\src\malo.cpp
+	"Malo.h"
+
+1530320347 source:c:\cygwin64\home\user6\strategy-templatemethod\src\strategy.cpp
+	"Strategy.h"
+

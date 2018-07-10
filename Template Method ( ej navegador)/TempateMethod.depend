@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1530312760 source:c:\cygwin64\home\user6\tempatemethod\src\navegador.cpp
+	"Navegador.h"
+
+1530313482 c:\cygwin64\home\user6\tempatemethod\include\navegador.h
+	<iostream>
+	<string>
+
+1530313270 source:c:\cygwin64\home\user6\tempatemethod\src\navegadorliviano.cpp
+	"NavegadorLiviano.h"
+
+1530313207 c:\cygwin64\home\user6\tempatemethod\include\navegadorliviano.h
+	"Navegador.h"
+
+1530313279 source:c:\cygwin64\home\user6\tempatemethod\src\navegadorpesado.cpp
+	"NavegadorPesado.h"
+
+1530313212 c:\cygwin64\home\user6\tempatemethod\include\navegadorpesado.h
+	"Navegador.h"
+
+1530313683 source:c:\cygwin64\home\user6\tempatemethod\main.cpp
+	"Navegador.h"
+	"NavegadorLiviano.h"
+	"NavegadorPesado.h"
+

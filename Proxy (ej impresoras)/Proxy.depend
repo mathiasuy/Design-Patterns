@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1530326976 source:c:\cygwin64\home\user6\proxy\src\dato.cpp
+	"Dato.h"
+
+1530326965 c:\cygwin64\home\user6\proxy\include\dato.h
+	<string>
+
+1530331513 source:c:\cygwin64\home\user6\proxy\src\driverepson.cpp
+	"DriverEpson.h"
+	"Utils.h"
+	<iostream>
+
+1530327326 c:\cygwin64\home\user6\proxy\include\driverepson.h
+	"IDriver.h"
+
+1530327347 c:\cygwin64\home\user6\proxy\include\idriver.h
+	"Dato.h"
+	"Puerto.h"
+
+1530327057 c:\cygwin64\home\user6\proxy\include\puerto.h
+
+1530331503 source:c:\cygwin64\home\user6\proxy\src\driverhp.cpp
+	"DriverHP.h"
+	"Utils.h"
+	<iostream>
+
+1530327338 c:\cygwin64\home\user6\proxy\include\driverhp.h
+	"IDriver.h"
+
+1530326765 source:c:\cygwin64\home\user6\proxy\src\iimpresora.cpp
+	"IImpresora.h"
+
+1530330404 c:\cygwin64\home\user6\proxy\include\iimpresora.h
+	"Dato.h"
+
+1530326768 source:c:\cygwin64\home\user6\proxy\src\idriver.cpp
+	"IDriver.h"
+
+1530330504 source:c:\cygwin64\home\user6\proxy\src\impresora.cpp
+	"Impresora.h"
+
+1530331467 c:\cygwin64\home\user6\proxy\include\impresora.h
+	"IImpresora.h"
+	"Puerto.h"
+	"IDriver.h"
+	<list>
+
+1530327070 source:c:\cygwin64\home\user6\proxy\src\puerto.cpp
+	"Puerto.h"
+
+1530331451 source:c:\cygwin64\home\user6\proxy\src\impresorasinconexion.cpp
+	"ImpresoraSinConexion.h"
+	<iostream>
+
+1530330418 c:\cygwin64\home\user6\proxy\include\impresorasinconexion.h
+	"IImpresora.h"
+	"Dato.h"
+	<list>
+
+1530327240 source:c:\cygwin64\home\user6\proxy\src\utils.cpp
+	"Utils.h"
+	<string>
+
+1530327268 c:\cygwin64\home\user6\proxy\include\utils.h
+	<string>
+	<sstream>
+	<iomanip>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+
+1530331567 source:c:\cygwin64\home\user6\proxy\main.cpp
+	"IImpresora.h"
+	"Impresora.h"
+	"ImpresoraSinConexion.h"
+	"Dato.h"
+	"IDriver.h"
+	"DriverEpson.h"
+	"DriverHP.h"
+

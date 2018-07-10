@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="RelojState" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/RelojState" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/RelojState" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="include/Alarm.h" />
+		<Unit filename="include/Context.h" />
+		<Unit filename="include/DtTime.h" />
+		<Unit filename="include/Hour.h" />
+		<Unit filename="include/State.h" />
+		<Unit filename="include/Timer.h" />
+		<Unit filename="include/Utils.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Alarm.cpp" />
+		<Unit filename="src/Context.cpp" />
+		<Unit filename="src/DtTime.cpp" />
+		<Unit filename="src/Hour.cpp" />
+		<Unit filename="src/State.cpp" />
+		<Unit filename="src/Timer.cpp" />
+		<Unit filename="src/Utils.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

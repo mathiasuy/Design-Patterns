@@ -1,0 +1,1 @@
+![Diagrama de clases del patrón](https://github.com/mathiasuy/patron-state-v2/blob/master/diagrama.png?raw=true)

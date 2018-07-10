@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1530128814 source:c:\tareas\composite\src\componente.cpp
+	"Componente.h"
+
+1530128479 c:\tareas\composite\include\componente.h
+	<string>
+	"Utils.h"
+
+1530131005 source:c:\tareas\composite\src\numero.cpp
+	"Numero.h"
+
+1530129491 c:\tareas\composite\include\numero.h
+	"Componente.h"
+	<string>
+
+1530131245 source:c:\tareas\composite\src\operacion.cpp
+	"Operacion.h"
+
+1530128627 c:\tareas\composite\include\operacion.h
+	"Componente.h"
+	<list>
+
+1530129761 c:\tareas\composite\include\tipooperacion.h
+
+1530130889 source:c:\tareas\composite\main.cpp
+	<string>
+	"Operacion.h"
+	"Numero.h"
+	"stdio.h"
+	"stdlib.h"
+	<iostream>
+	<conio.h>
+
+1530131308 source:c:\tareas\composite\src\utils.cpp
+	"Utils.h"
+	"TipoOperacion.h"
+	<string>
+
+1530129414 c:\tareas\composite\include\utils.h
+	<string>
+	<sstream>
+	<iomanip>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	"TipoOperacion.h"
+

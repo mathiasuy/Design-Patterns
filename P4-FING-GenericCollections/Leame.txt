@@ -1,0 +1,34 @@
+Implementación de colecciones IDictionary - ICollection
+
+Programación 4  - Edición 2012
+
+Esta carpeta corresponde a un proyecto netbeans 7.1 que puede utilizarse en las
+implementaciones de los grupos del laboratorio. La implementación está compuesta
+por la clase List, una lista enlazada que implmenta ICollection y
+OrderedDictionary, un ABB que implementa IDictionary y agrega funcionalidades
+extra como la iteración por orden ascendente o descendente (según el orden de 
+las claves) y permite obtener el valor máximo y mínimo de los elementos.
+
+OrderedDictionary usa claves que derivan de la clase abstracta OrderedKey que
+es una subclase de IKey, que define un orden (<, =, >) entre sus elementos.
+En la distribución se incluye implementaciones de ejemplo de claves Integer y 
+String que derivan de OrderedKey.
+
+Para compilar y ejecutar el programa de ejemplo deben ejecutarse los siguientes
+comandos:
+
+    make 
+    ./dist/Debug/GNU-Linux-x86/lab6-colecciones
+
+A continuación se describe los contenidos del archivo
+
+- collections: Implementación de ICollection, IDictionary, IKey e IIterator
+               usando OrderedDictionary y List
+- interfaces: Tiene la definición de las interfaces comunes
+- Integer.cpp/.h : Clase Entero (deriva de ICollectible y OrderedKey)
+- String.cpp/.h : Clase String (deriva de ICollectible y OrderedKey)
+- test.cpp: Programa de pruebas con ejemplos de uso de la colección
+- ColLab6.png: DCD de la implementación de ICollection
+- DictLab6.png: DCD de la implementación de IDictionary
+
+

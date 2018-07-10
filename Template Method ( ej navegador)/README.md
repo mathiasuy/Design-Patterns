@@ -1,0 +1,1 @@
+![Diagrama de clases del patrón](https://github.com/mathiasuy/patron-template-method-navegador/blob/master/diagrama.png?raw=true)

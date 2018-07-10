@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TempateMethod" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TempateMethod" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TempateMethod" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="include/Bueno.h" />
+		<Unit filename="include/Intermedio.h" />
+		<Unit filename="include/Malo.h" />
+		<Unit filename="include/Navegador.h" />
+		<Unit filename="include/NavegadorLiviano.h" />
+		<Unit filename="include/NavegadorPesado.h" />
+		<Unit filename="include/Strategy.h" />
+		<Unit filename="include/TipoEstado.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Bueno.cpp" />
+		<Unit filename="src/Intermedio.cpp" />
+		<Unit filename="src/Malo.cpp" />
+		<Unit filename="src/Navegador.cpp" />
+		<Unit filename="src/NavegadorLiviano.cpp" />
+		<Unit filename="src/NavegadorPesado.cpp" />
+		<Unit filename="src/Strategy.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
