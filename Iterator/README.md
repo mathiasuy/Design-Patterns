@@ -1,3 +1,3 @@
-![Diagrama de clases del patrón](https://github.com/mathiasuy/patron-iterator/blob/master/diagrama.png?raw=true)
+![Diagrama de clases del patrón](diagrama.png)
 
 Diagrama de Wikipedia.
