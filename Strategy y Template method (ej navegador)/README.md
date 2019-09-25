@@ -1,1 +1,1 @@
-![Diagrama de clases del patrón](https://github.com/mathiasuy/patron-strategy-template-method-navegador/blob/master/diagrama.png?raw=true)
+![Diagrama de clases del patrón](https://raw.githubusercontent.com/mathiasuy/Design-Patterns/master/Strategy%20y%20Template%20method%20(ej%20navegador)/diagrama.png)
