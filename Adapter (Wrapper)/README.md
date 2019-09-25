@@ -1,1 +1,1 @@
-![Diagrama de clases del patrón](https://github.com/mathiasuy/patron-adapter-wrapper/blob/master/diagrama.png?raw=true)
+![Diagrama de clases del patrón](https://raw.githubusercontent.com/mathiasuy/Design-Patterns/master/Adapter%20(Wrapper)/diagrama.png)
