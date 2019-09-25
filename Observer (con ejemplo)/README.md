@@ -1,1 +1,1 @@
-![Diagrama de clases del Composite](https://github.com/mathiasuy/patron-observer-cpp/blob/master/diagrama.png?raw=true)
+![Diagrama de clases del Composite](https://github.com/mathiasuy/Design-Patterns/blob/master/Observer%20(con%20ejemplo)/diagrama.png)
