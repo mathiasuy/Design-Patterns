@@ -1,1 +1,1 @@
-![Diagrama de clases del patrón](https://github.com/mathiasuy/patron-proxy-impresoras/blob/master/diagrama.png?raw=true)
+![Diagrama de clases del patrón](https://raw.githubusercontent.com/mathiasuy/Design-Patterns/master/Proxy%20(ej%20impresoras)/diagrama.png)
