@@ -1,1 +1,1 @@
-![Diagrama de clases del Composite](https://github.com/mathiasuy/calculadora-patron-composite/blob/master/diagrama.png?raw=true)
+![Diagrama de clases del Composite](https://raw.githubusercontent.com/mathiasuy/Design-Patterns/master/Composite%20(ej%20calculadora)/diagrama.png)
